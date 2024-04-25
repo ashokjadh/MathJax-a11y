@@ -1,4 +1,4 @@
-# MathJax Accessibility Extensions Documentation
+#hack the  MathJax Accessibility Extensions Documentation
 
 * [Introduction](#introduction)
 * [Quick Start](#quick-start)
